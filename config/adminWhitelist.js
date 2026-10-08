@@ -1,0 +1,1 @@
+export const ADMIN_PHONES = ["01027760669", "01008100546"];

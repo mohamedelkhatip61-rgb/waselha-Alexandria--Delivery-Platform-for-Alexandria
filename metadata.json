@@ -1,0 +1,6 @@
+{
+  "name": "وصلها مصر - منصة التوصيل الشاملة | Waselha Egypt Delivery Platform",
+  "description": "منصة توصيل فائقة التطور للسوق المصري تضم تطبيق العميل، تطبيق المندوب، لوحة التاجر، ولوحة تحكم الإدارة مع تتبع GPS حي ونظام المحفظة والمديونيات.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
